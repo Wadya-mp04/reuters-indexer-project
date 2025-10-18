@@ -117,7 +117,7 @@ def menu():
 
 menu()
 
-#for subproject 3.2:
+#for context: I was comparing the niave indexer with an indexer built with a compressed index
 # query_test = ['your','life','zue',('your','be'),('zone','war'),('humidity','restored')]
 # naive_index = naiveIndexer(docs)
 # compressed_index = buildIndex(pairManager(docs,1,1,1,1))
