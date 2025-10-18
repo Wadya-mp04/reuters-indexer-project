@@ -1,0 +1,26 @@
+# Virtual environments and dependencies
+venv/
+.env/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Build and cache files
+*.log
+*.tmp
+
+# Python packaging
+pipfile
+pipfile.lock
+
+# Dataset
+reuters/
+sgm/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/
