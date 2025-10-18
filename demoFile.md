@@ -20,10 +20,6 @@ REUTERS_PATH = "PATH/TO/YOUR/reuters/sgm"
 
 ⚠️ Replace this with the local absolute path to the folder that contains your .sgm files.
 
-My original path was:
-
-REUTERS_PATH = "/Users/waddahdaker/Desktop/Waddah/Python/COMP_479/Project1/reuters/sgm"
-
 Driver model
 
 You don’t need to execute each file individually.
